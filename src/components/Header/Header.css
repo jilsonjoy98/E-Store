@@ -1,0 +1,21 @@
+.header{
+    background-color: #151a1f;
+    color: #fff;
+     padding: 20px;
+     display: flex;
+     justify-content: space-between;
+
+}
+.header h1{
+    margin:0;
+}
+.log_out{
+    background-color: rgb(247, 228, 56);
+    color: #000000;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    font-size: 15px;
+    font-weight: 20px;
+    cursor: pointer;
+}
